@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718794731479",
+    "firebase_url": "https://imagevideopicker.firebaseio.com",
+    "project_id": "imagevideopicker",
+    "storage_bucket": "imagevideopicker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718794731479:android:a882d0e9992fc1973ca592",
+        "android_client_info": {
+          "package_name": "com.example.image_video_capturing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718794731479-ja1mv95tpd9p8a9pi1rojdl5c32639dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPM62EckSKHjHl70dMreZgLOectq-Yl30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718794731479-ja1mv95tpd9p8a9pi1rojdl5c32639dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
